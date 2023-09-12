@@ -1,0 +1,15 @@
+#header {
+    background-color: burlywood;
+    text-align: center;
+    font-family: helvetica;
+}
+
+#list {
+    font-size: larger;
+    text-align: center;
+    list-style-type: none;
+}
+
+#divlist {
+    background-color: antiquewhite;
+}
